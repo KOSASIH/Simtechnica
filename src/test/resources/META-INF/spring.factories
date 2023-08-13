@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.kosasih.\
+    simtechnica.config.TestContainersSpringContextCustomizerFactory,com.kosasih.\
+    simtechnica.config.SqlTestContainersSpringContextCustomizerFactory,com.\
+    kosasih.simtechnica.config.KafkaTestContainersSpringContextCustomizerFactory
