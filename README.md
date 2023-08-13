@@ -64,7 +64,7 @@ Our team is continuously working to expand the range of supported industries to 
 
 ## Contributing
 
-We welcome contributions from the community! If you're interested in improving Simtechnica, please review our [contribution guidelines](CONTRIBUTING.md) and [code of conduct](https://github.com/KOSASIH/.github/blob/master/CODE_OF_CONDUCT.md) before getting started.
+We welcome contributions from the community! If you're interested in improving Simtechnica, please review our [contribution guidelines](https://github.com/KOSASIH/.github/blob/master/CONTRIBUTING.md) and [code of conduct](https://github.com/KOSASIH/.github/blob/master/CODE_OF_CONDUCT.md) before getting started.
 
 ## License
 
